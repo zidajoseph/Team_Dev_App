@@ -1,17 +1,5 @@
 # README
 
-Bonsoir Mentor.
-Voici ma soumission pour l'exercice "Lecture de code"
-Merci
-
-I. Que fait cette application? = ❸
- Ⅱ. Agenda.rb = ❹
- Ⅲ. Article.rb = ❷  Ⅲ. Article.rb = ❶
- Ⅳ. Assign.rb = ❹
- Ⅴ. Team.rb = ❶
- Ⅵ.user.rb = ❷
-
-
 文書共有がSlack依存になってしまっている状態を改善するためのアプリケーション
 社内での情報共有をスムーズに進めるために開発された社内用ツール
 
