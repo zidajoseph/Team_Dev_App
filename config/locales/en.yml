@@ -228,6 +228,7 @@ en:
       cannot_delete_member_4_some_reason: 'The file could not be deleted for some reason.'
       failed_to_post: 'Failed to post ...'
       create_team: 'Successfully created a team!'
+      destroy_agenda: 'agenda has been deleted successfully'
       failed_to_save_team: 'Failed to save...'
       update_team: 'Successfully updated the team!'
       delete_team: 'The team has been deleted'
